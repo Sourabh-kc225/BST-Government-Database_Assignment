@@ -1,0 +1,21 @@
+BST INSERTION TRACE TABLE
+
+
+Step    ID      Comparison                                      Position
+1       A102    Root                                             Root
+2       A25     A25 < A102                                       Left of A102
+3       A7      A7 < A102, A7 < A25                             Left of A25
+4       B100    B100 > A102, B100 > A25                         Right of A25
+5       B12     B12 > A102, B12 > A25, B12 < B100              Left of B100
+6       A120    A120 > A102, A120 < A25                         Left of A25
+7       B3      B3 > A102, B3 > A25, B3 < B100, B3 < B12       Left of B12
+8       A45     A45 > A102, A45 > A25, A45 > A7                 Right of A7
+
+
+SEARCH TRACE TABLE
+
+
+Search ID       BST Comparisons       Linear Comparisons
+A102            1                     1
+A7              3                     3
+B12             5                     5

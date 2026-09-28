@@ -1,0 +1,12 @@
+The identification numbers were successfully organized
+using a Binary Search Tree.
+
+BST Search and Linear Search were compared using selected
+keys. The insertion order affected the BST height and
+search performance.
+
+BST Search has O(log n) average-case complexity, while
+Linear Search has O(n) average-case complexity.
+
+For a growing database, a self-balancing BST such as an
+AVL Tree can provide efficient search performance.

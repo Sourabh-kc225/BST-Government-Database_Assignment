@@ -1,0 +1,16 @@
+BST SEARCH VS LINEAR SEARCH
+
+Search ID    BST Comparisons    Linear Comparisons
+---------------------------------------------------
+A102         1                  1
+A7           3                  3
+B12          5                  5
+
+
+TIME COMPLEXITY COMPARISON
+==========================
+
+Method          Best Case    Average Case    Worst Case
+-------------------------------------------------------
+BST Search      O(1)         O(log n)        O(n)
+Linear Search   O(1)         O(n)            O(n)

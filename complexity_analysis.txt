@@ -1,0 +1,33 @@
+COMPLEXITY ANALYSIS
+
+
+BST Search:
+Best Case    : O(1)
+Average Case : O(log n)
+Worst Case   : O(n)
+
+Linear Search:
+Best Case    : O(1)
+Average Case : O(n)
+Worst Case   : O(n)
+
+BST Space Complexity:
+O(n)
+
+Insertion Order:
+Original Order Height  : 5 edges
+Sorted Order Height    : 7 edges
+Different Order Height : 3 edges
+
+Key Length Analysis:
+Short Keys Height : 5 edges
+Long Keys Height  : 5 edges
+
+Observation:
+Insertion order affects BST height significantly.
+A sorted insertion order can produce a skewed tree.
+A balanced tree provides better search performance.
+
+For a growing database, a self-balancing BST such as
+AVL Tree or Red-Black Tree can maintain efficient
+O(log n) search performance.

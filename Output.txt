@@ -1,0 +1,62 @@
+Inorder Traversal:
+A102 A120 A25 A45 A7 B100 B12 B3 
+
+BST Height = 5 edges
+
+Enter ID to search: A102
+BST Search: Found
+BST Comparisons = 1
+Linear Search: Found
+Linear Search Comparisons = 1
+
+Insertion Order Analysis
+Original Order Height = 5 edges
+Sorted Order Height = 7 edges
+Different Order Height = 3 edges
+
+Key Length Analysis
+Short Keys Height = 5 edges
+Long Keys Height = 5 edges
+
+
+
+Inorder Traversal:
+A102 A120 A25 A45 A7 B100 B12 B3 
+
+BST Height = 5 edges
+
+Enter ID to search: A7
+BST Search: Found
+BST Comparisons = 3
+Linear Search: Found
+Linear Search Comparisons = 3
+
+Insertion Order Analysis
+Original Order Height = 5 edges
+Sorted Order Height = 7 edges
+Different Order Height = 3 edges
+
+Key Length Analysis
+Short Keys Height = 5 edges
+Long Keys Height = 5 edges
+
+
+Inorder Traversal:
+A102 A120 A25 A45 A7 B100 B12 B3 
+
+BST Height = 5 edges
+
+Enter ID to search: B12
+BST Search: Found
+BST Comparisons = 5
+Linear Search: Found
+Linear Search Comparisons = 5
+
+Insertion Order Analysis
+Original Order Height = 5 edges
+Sorted Order Height = 7 edges
+Different Order Height = 3 edges
+
+Key Length Analysis
+Short Keys Height = 5 edges
+Long Keys Height = 5 edges
